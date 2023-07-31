@@ -8,7 +8,7 @@ This project is a Machine Learning Classification Model based on Decision Tree A
 One of the major tasks on this dataset is to predict based on the given attributes of a patient whether that particular person has heart disease or not and the other is the experimental task to diagnose and find out various insights from this dataset which could help in understanding the problem more.
 
 ## About Dataset:
-This is a multivariate type of dataset which means providing or involving a variety of separate mathematical or statistical variables, multivariate numerical data analysis. There are total 606 rows and 14 columns.
+This is a multivariate type of dataset which means providing or involving a variety of separate mathematical or statistical variables, multivariate numerical data analysis. There are total 606 rows and 16 columns.
 
 **Column Descriptions:**
 1. age: (Age of the patient in years)
