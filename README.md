@@ -11,22 +11,20 @@ One of the major tasks on this dataset is to predict based on the given attribut
 This is a multivariate type of dataset which means providing or involving a variety of separate mathematical or statistical variables, multivariate numerical data analysis. There are total 606 rows and 14 columns.
 
 **Column Descriptions:**
-1. id: (Unique id for each patient)
-2. age: (Age of the patient in years)
-3. origin: (place of study)
-4. sex: (Male/Female)
-5. cp: chest pain type ([typical angina, atypical angina, non-anginal, asymptomatic])
-6. trestbps: resting blood pressure (resting blood pressure (in mm Hg on admission to the hospital))
-7. chol: (serum cholesterol in mg/dl)
-8. fbs: (if fasting blood sugar > 120 mg/dl)
-9. restecg: (resting electrocardiographic results) Values: [normal, stt abnormality, lv hypertrophy]
-10. thalach: maximum heart rate achieved
-11. exang: exercise-induced angina (True/ False)
-12. oldpeak: ST depression induced by exercise relative to rest
-13. slope: the slope of the peak exercise ST segment
-14. ca: number of major vessels (0-3) colored by fluoroscopy
-15. thal: [normal; fixed defect; reversible defect]
-16. num: the predicted attribute
+1. age: (Age of the patient in years)
+2. sex: (Male/Female)
+3. cp: chest pain type ([typical angina, atypical angina, non-anginal, asymptomatic])
+4. trestbps: resting blood pressure (resting blood pressure (in mm Hg on admission to the hospital))
+5. chol: (serum cholesterol in mg/dl)
+6. fbs: (if fasting blood sugar > 120 mg/dl)
+7. restecg: resting electrocardiographic results ([normal, stt abnormality, lv hypertrophy])
+8. thalach: maximum heart rate achieved
+9. exang: exercise-induced angina (True/ False)
+10. oldpeak: ST depression induced by exercise relative to rest
+11. slope: the slope of the peak exercise ST segment
+12. ca: number of major vessels (0-3) colored by fluoroscopy
+13. thal: [normal; fixed defect; reversible defect]
+14. target the predicted attribute
 
 
 ## Algorithm: Decision Tree
