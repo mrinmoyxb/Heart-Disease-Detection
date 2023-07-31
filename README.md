@@ -1,7 +1,7 @@
 
 # Heart Disease Detection Model
 
-This project is a Machine Learning Classification Model based on Decision Tree Algorithm using UCI heart Disease Dataset.
+Machine Learning Classification Model based on Decision Tree Algorithm using UCI heart Disease Dataset.
 
 
 ## Objective:
